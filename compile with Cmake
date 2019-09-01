@@ -1,0 +1,6 @@
+cmake 
+make
+./filename
+
+
+create CMakeList.txt before compile.
